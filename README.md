@@ -1,2 +1,2 @@
 # my-profolio
-This was my first coursera project 
+This was a coursera project i did as a final assignment for 'Introduction to HTML, CSS, & JavaScript'
